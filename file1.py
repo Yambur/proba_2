@@ -1,1 +1,1 @@
-print("Дарова заебал")
+print("file1=file1")
