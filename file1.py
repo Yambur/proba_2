@@ -1,2 +1,2 @@
 print("Дарова, заебал!")
-aga
+aga noga
